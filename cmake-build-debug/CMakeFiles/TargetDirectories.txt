@@ -1,0 +1,3 @@
+/home/oaugusto/Workspace/Heuristic-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oaugusto/Workspace/Heuristic-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oaugusto/Workspace/Heuristic-project/cmake-build-debug/CMakeFiles/paa_project.dir
